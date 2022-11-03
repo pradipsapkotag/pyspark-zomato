@@ -1,5 +1,10 @@
 # pyspark-zomato
 
+### Click On the respective name to view their contributions
+#### [ Baburam Shrestha](https://github.com/baburam-shrestha/pyspark-zomato) 
+#### [Pallavi Shrestha](https://github.com/stha-pallavii/pyspark-zomato) 
+#### [Pradip Sapkota](https://github.com/pradipsapkotag/pyspark-zomato/tree/pradip)
+
 
 
 ### Directory Tree
@@ -33,4 +38,6 @@
 
 ### [Data Pipeline Diagram](https://github.com/pradipsapkotag/pyspark-zomato/blob/pradip/Draw/data%20pipeline.png)
 ![Data Pipeline Diagram](https://github.com/pradipsapkotag/pyspark-zomato/blob/pradip/Draw/data%20pipeline.png)
+
+
 
