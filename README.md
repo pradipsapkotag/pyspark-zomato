@@ -1,8 +1,4 @@
 # pyspark-zomato
-*By Pradip Sapkoa*
-
-### [Data Pipeline Diagram](https://github.com/pradipsapkotag/pyspark-zomato/blob/pradip/Draw/data%20pipeline.png)
-![Data Pipeline Diagram](https://github.com/pradipsapkotag/pyspark-zomato/blob/pradip/Draw/data%20pipeline.png)
 
 
 
@@ -32,3 +28,10 @@
 ├── [spark-submit.log](https://github.com/pradipsapkotag/pyspark-zomato/blob/pradip/spark-submit.log)  # log-file for spatk-submit
 └── [tasks.ipynb](https://github.com/pradipsapkotag/pyspark-zomato/blob/pradip/tasks.ipynb) # tasks in notebook
 </pre>**
+
+
+
+### [Data Pipeline Diagram](https://github.com/pradipsapkotag/pyspark-zomato/blob/pradip/Draw/data%20pipeline.png)
+*By Pradip Sapkota* <br>
+![Data Pipeline Diagram](https://github.com/pradipsapkotag/pyspark-zomato/blob/pradip/Draw/data%20pipeline.png)
+
